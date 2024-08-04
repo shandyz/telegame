@@ -1,0 +1,16 @@
+{
+  "name": "tapgames",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A single page HTML 5 Games Project developed in **PhaserJS** for mobile devices and Desktop hosted on Github pages. TapGames is a free and open source platform. TapGames consists of 2D games with tap feature. Its is an active project developed and updated during  the pandemic lockdown  with continuous  fixes  and development of more 2D games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "telegraf": "^4.16.3"
+  }
+}
